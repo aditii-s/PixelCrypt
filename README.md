@@ -1,4 +1,4 @@
-# CryptoSteg — A Hybrid Cryptography and Steganography Secure Message Encrypter 🔐🖼️
+# CryptoSteg — A Hybrid Cryptography and Steganography Secure Message Encryptor 🔐🖼️
 
 CryptoSteg is a secure communication application that combines 
 **AES/RSA cryptography**, **randomized LSB image steganography**, and **QR-based key sharing** 
