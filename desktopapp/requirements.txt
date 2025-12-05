@@ -1,4 +1,0 @@
-pycryptodome
-Pillow
-tk
-qrcode
